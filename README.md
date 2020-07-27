@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <img width="120" src="public/img/icons/android-chrome-512x512.png">
 </p>
@@ -242,3 +243,6 @@ See [CONTRIBUTING.md](https://github.com/Armour/vue-typescript-admin-template/bl
 ## License
 
 [MIT License](https://github.com/Armour/vue-typescript-admin-template/blob/master/LICENSE)
+=======
+# main
+>>>>>>> f48b420416e1eff2cdd0fbc8f1392d3fced0118e
